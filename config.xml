@@ -20,6 +20,6 @@
             Joel 8a
         </author>
 
-        <icon src="img/icono.png" />
+        <icon src="img/icon.png" />
         <splash src="img/splash.png" />
     </widget>
